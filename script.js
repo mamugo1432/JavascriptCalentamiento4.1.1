@@ -9,6 +9,7 @@ let respuesta=true;
 const PI=3.14;
 /*Modifica el valor de la variable numero para que en lugar 
 de -4 sea 54 pero sin tocar la parte de la declaración de la variable.*/
+numero=54;
 /*¿Qué pasa si modificas el valor de la variable antes de que esta sea declarada?*/
 /*Declara 2 variables y asigna los valores 5 y 2 respectivamente*/
 /*Muestra por consola la suma de ambas variables.*/
