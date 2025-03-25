@@ -11,6 +11,7 @@ const PI=3.14;
 de -4 sea 54 pero sin tocar la parte de la declaración de la variable.*/
 numero=54;
 /*¿Qué pasa si modificas el valor de la variable antes de que esta sea declarada?*/
+console.log("No pasa nada, se puede modificar el valor de la variable antes de que sea declarada");
 /*Declara 2 variables y asigna los valores 5 y 2 respectivamente*/
 /*Muestra por consola la suma de ambas variables.*/
 /*Muestra por consola la resta de ambas variables.*/
