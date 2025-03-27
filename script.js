@@ -12,6 +12,11 @@ de -4 sea 54 pero sin tocar la parte de la declaración de la variable.*/
 numero=54;
 /*¿Qué pasa si modificas el valor de la variable antes de que esta sea declarada?*/
 "Si la variable se declara con var, si se podrá hacer porque la variable tendrá el valor undefined pero si se declara con let no se puede";
+/*Muestra por consola cada una de las variables. Usa console.log(nombre_variable); */
+console.log(numero);
+console.log(palabra);
+console.log(respuesta);
+console.log(PI);
 /*Declara 2 variables y asigna los valores 5 y 2 respectivamente*/
 let v5,v2;
 v5=5;
