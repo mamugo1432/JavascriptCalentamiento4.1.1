@@ -13,6 +13,9 @@ numero=54;
 /*¿Qué pasa si modificas el valor de la variable antes de que esta sea declarada?*/
 "Si la variable se declara con var, si se podrá hacer porque la variable tendrá el valor undefined pero si se declara con let no se puede";
 /*Declara 2 variables y asigna los valores 5 y 2 respectivamente*/
+let v5,v2;
+v5=5;
+v2=2;
 /*Muestra por consola la suma de ambas variables.*/
 /*Muestra por consola la resta de ambas variables.*/
 /*Muestra por consola la multiplicación de ambas variables.*/
