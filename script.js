@@ -30,3 +30,4 @@ console.log(v5%v2);
 let nombre="Manuel";
 /*Muestra por consola el JAVASCRIPT
  texto Hola concatenado con el valor de la variable anterior.*/
+console.log("Hola "+nombre);
