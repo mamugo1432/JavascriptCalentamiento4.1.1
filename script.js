@@ -17,6 +17,7 @@ let v5,v2;
 v5=5;
 v2=2;
 /*Muestra por consola la suma de ambas variables.*/
+console.log(v5+v2);
 /*Muestra por consola la resta de ambas variables.*/
 /*Muestra por consola la multiplicación de ambas variables.*/
 /*Muestra por consola la división de ambas variables.*/
