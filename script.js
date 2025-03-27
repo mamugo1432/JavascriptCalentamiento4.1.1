@@ -21,6 +21,7 @@ console.log(v5+v2);
 /*Muestra por consola la resta de ambas variables.*/
 console.log(v5-v2);
 /*Muestra por consola la multiplicación de ambas variables.*/
+console.log(v5*v2);
 /*Muestra por consola la división de ambas variables.*/
 /*Muestra por consola la módulo de ambas variables.*/
 /*Declara una variable cuyo valor sea tu nombre.*/
