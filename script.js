@@ -25,7 +25,7 @@ console.log(v5*v2);
 /*Muestra por consola la división de ambas variables.*/
 console.log(v5/v2);
 /*Muestra por consola la módulo de ambas variables.*/
-console.log(v5%v2);
+console.log(v5%v2); 
 /*Declara una variable cuyo valor sea tu nombre.*/
 /*Muestra por consola el JAVASCRIPT
  texto Hola concatenado con el valor de la variable anterior.*/
