@@ -18,9 +18,7 @@ console.log(palabra);
 console.log(respuesta);
 console.log(PI);
 /*Declara 2 variables y asigna los valores 5 y 2 respectivamente*/
-let v5,v2;
-v5=5;
-v2=2;
+let v5=5,v2=2;
 /*Muestra por consola la suma de ambas variables.*/
 console.log(v5+v2);
 /*Muestra por consola la resta de ambas variables.*/
